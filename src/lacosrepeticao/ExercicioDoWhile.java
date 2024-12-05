@@ -8,7 +8,6 @@ public class ExercicioDoWhile {
 		float numero = 0;
 		float negativos = 0;
 		float positivos = 0;
-		float resultado = 0;
 		float somaPositivos = 0;
 		
 		Scanner leia = new Scanner(System.in);
